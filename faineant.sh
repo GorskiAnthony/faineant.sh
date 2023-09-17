@@ -2,7 +2,7 @@
 
 # Variables
 # Bien sûr, vous pouvez changer le fichier json, moi il s'appel comme ça
-credentials_file="studentsToGithub.json"
+credentials_file="team.json"
 
 # Extraire les données d'identification du fichier JSON avec jq
 # brew install jq sur macOS
