@@ -26,8 +26,8 @@ Il faut modifier le fichier team.json et remplacer les valeurs par les votres
 
 ```json
 {
-	"orga": "", // ex: WildCodeSchool-2023-09
-	"team": "", // ex: JS-Remote-SACOD
+	"orga": "", // ex: "WildCodeSchool-2023-09"
+	"team": "", // ex: "JS-Remote-SACOD"
 	"students": [] // ex: ["GorskiAnthony", "samuelfaberdev", ...]
 }
 ```
