@@ -12,8 +12,6 @@
 Il vous faut absolument :
 
 -   [gh](https://cli.github.com/)
--   [jq](https://stedolan.github.io/jq/) (pour parser le json)
-    -   Vous avez les instructions d'installation dans le fichier faineant.sh
 
 ## Usage
 
@@ -22,23 +20,13 @@ gh repo clone GorskiAnthony/faineant.sh
 cd faineant.sh
 ```
 
-Il faut modifier le fichier team.json et remplacer les valeurs par les votres
-
-```json
-{
-	"orga": "", // ex: "WildCodeSchool-2023-09"
-	"team": "", // ex: "JS-Remote-SACOD"
-	"students": [] // ex: ["GorskiAnthony", "samuelfaberdev", ...]
-}
-```
-
 Il faut rendre le script executable
 
 ```sh
 chmod +x faineant.sh
 ```
 
-Ensuite, il suffit de lancer le script
+Ensuite, il suffit de lancer le script et de suivre les instructions 💪
 
 ```sh
 ./faineant.sh
